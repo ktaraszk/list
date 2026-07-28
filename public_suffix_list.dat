@@ -14667,6 +14667,12 @@ eu.meteorapp.com
 // Michau Enterprises Limited : http://www.co.pl/
 co.pl
 
+// Miget : https://miget.com
+// Submitted by Krzysztof Taraszka <security@miget.com>
+*.onmiget.com
+m2.eu-east-1.onmiget.com
+m2.us-east-1.onmiget.com
+
 // Microsoft Corporation : http://microsoft.com
 // Submitted by Public Suffix List Admin <msftpsladmin@microsoft.com>
 // Managed by Corporate Domains
